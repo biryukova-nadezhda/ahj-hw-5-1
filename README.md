@@ -1,5 +1,5 @@
 ## работа с HTML-формами
-Git-pages:
+Git-pages: https://biryukova-nadezhda.github.io/ahj-hw-5-1/
 
 [![Build status](https://ci.appveyor.com/api/projects/status/jpa0j1cblpu1w1fm?svg=true)](https://ci.appveyor.com/project/biryukova-nadezhda/ahj-hw-5-1)
 
